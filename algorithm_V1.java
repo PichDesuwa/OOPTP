@@ -27,5 +27,6 @@ public class algorithm_V1 {
 
     //papa im hungry pls feed me pizza
     // i'm gtr
+    // My salary 150$ wanna buy GTR_R32
 
 }
