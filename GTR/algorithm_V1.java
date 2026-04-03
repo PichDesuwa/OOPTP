@@ -1,7 +1,7 @@
 package GTR;
 public class algorithm_V1 {
     //Dara ther attribute
-
+    int[] sample = {};
     //Phanith ther constructor
     public algorithm_V1(int[] sample){
         this.sample = sample;
