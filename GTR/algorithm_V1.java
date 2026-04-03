@@ -1,10 +1,11 @@
 package GTR;
+
 public class algorithm_V1 {
-    //Dara ther attribute
-    
-    //Phanith ther constructor
+    //Pichboth ther attribute
+
+    //Dara ther Constructor
 
     //Lyza ther sum
 
-    //Both ther print
+    //Phanith ther Print
 }

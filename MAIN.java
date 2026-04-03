@@ -1,3 +1,5 @@
+import GTR.algorithm_V1;
+
 public class MAIN {
     public static void main(String[] args) {
         int [] input = {1, 2, 3, 4, 5, 6};
