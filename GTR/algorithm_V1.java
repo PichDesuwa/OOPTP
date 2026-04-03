@@ -7,6 +7,13 @@ public class algorithm_V1 {
         this.sample = sample;
     }
     //Lyza ther sum
+    public int sum(int[] input){
+        int sum = 0;
+        for (int i=0; i<input.length; i++) {
+            sum += input[i];
+        }
+        return sum;
+    }
 
 
     //Both ther print
