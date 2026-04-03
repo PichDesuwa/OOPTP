@@ -1,13 +1,13 @@
 public class algorithm_V1 {
     //task1
-    int[] sample ={};
+    int[] sample ={1,2,3,4,5,6};
     
     int[] input;
     int[] output;
 
     //task2
     public algorithm_V1(int[] input) {
-
+        this.input = input;
     }
     
     //task3
